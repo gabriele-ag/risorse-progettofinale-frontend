@@ -1,0 +1,503 @@
+[
+  {
+    "title": "ChatGPT",
+    "category": "Generazione Testo",
+    "description": "Modello linguistico avanzato per contenuti e assistenza.",
+    "brand": "OpenAI",
+    "website": "https://chat.openai.com",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+    "price": "Freemium",
+    "hasFreeVersion": true,
+    "apiAvailable": true,
+    "supportedLanguages": [
+      "EN",
+      "IT",
+      "FR",
+      "DE",
+      "ES"
+    ],
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "releaseYear": 2022,
+    "rating": 4.8,
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Notion"
+    ],
+    "privacyLevel": "High",
+    "useCases": [
+      "Copywriting",
+      "Customer Support",
+      "Coding"
+    ],
+    "id": 1,
+    "createdAt": "2025-08-25T09:57:45.547Z",
+    "updatedAt": "2025-08-25T09:57:45.547Z"
+  },
+  {
+    "title": "Midjourney",
+    "category": "Generazione Immagini",
+    "description": "Genera immagini artistiche da prompt testuali.",
+    "brand": "Midjourney Inc.",
+    "website": "https://www.midjourney.com",
+    "logoUrl": "https://cdn.midjourney.com/logo.png",
+    "price": "Da 10€/mese",
+    "hasFreeVersion": false,
+    "apiAvailable": false,
+    "supportedLanguages": [
+      "EN"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releaseYear": 2022,
+    "rating": 4.7,
+    "integrations": [
+      "Discord"
+    ],
+    "privacyLevel": "Medium",
+    "useCases": [
+      "Design",
+      "Arte",
+      "Marketing"
+    ],
+    "id": 2,
+    "createdAt": "2025-08-25T09:58:37.292Z",
+    "updatedAt": "2025-08-25T09:58:37.292Z"
+  },
+  {
+    "title": "Jasper",
+    "category": "Copywriting",
+    "description": "Assistente AI per contenuti di marketing e blog.",
+    "brand": "Jasper AI",
+    "website": "https://www.jasper.ai",
+    "logoUrl": "https://www.jasper.ai/favicon.ico",
+    "price": "Da 39€/mese",
+    "hasFreeVersion": false,
+    "apiAvailable": true,
+    "supportedLanguages": [
+      "EN"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releaseYear": 2021,
+    "rating": 4.6,
+    "integrations": [
+      "Surfer SEO",
+      "Zapier"
+    ],
+    "privacyLevel": "High",
+    "useCases": [
+      "Blogging",
+      "Ads",
+      "SEO"
+    ],
+    "id": 3,
+    "createdAt": "2025-08-25T10:01:27.613Z",
+    "updatedAt": "2025-08-25T10:01:27.613Z"
+  },
+  {
+    "title": "Synthesia",
+    "category": "Video AI",
+    "description": "Crea video con avatar sintetici parlanti.",
+    "brand": "Synthesia Ltd.",
+    "website": "https://www.synthesia.io",
+    "logoUrl": "https://www.synthesia.io/favicon.ico",
+    "price": "Da 30€/mese",
+    "hasFreeVersion": false,
+    "apiAvailable": true,
+    "supportedLanguages": [
+      "EN",
+      "FR",
+      "DE",
+      "IT"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releaseYear": 2020,
+    "rating": 4.5,
+    "integrations": [
+      "Canva",
+      "Loom"
+    ],
+    "privacyLevel": "High",
+    "useCases": [
+      "Formazione",
+      "Presentazioni",
+      "Marketing"
+    ],
+    "id": 4,
+    "createdAt": "2025-08-25T10:03:11.678Z",
+    "updatedAt": "2025-08-25T10:03:11.678Z"
+  },
+  {
+    "title": "Notion AI",
+    "category": "Produttività",
+    "description": "Assistente AI integrato in Notion per scrittura e organizzazione.",
+    "brand": "Notion Labs",
+    "website": "https://www.notion.so",
+    "logoUrl": "https://www.notion.so/favicon.ico",
+    "price": "Incluso nel piano Plus",
+    "hasFreeVersion": true,
+    "apiAvailable": true,
+    "supportedLanguages": [
+      "EN"
+    ],
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "releaseYear": 2023,
+    "rating": 4.4,
+    "integrations": [
+      "Slack",
+      "Google Calendar"
+    ],
+    "privacyLevel": "Medium",
+    "useCases": [
+      "Note",
+      "Task",
+      "Scrittura"
+    ],
+    "id": 5,
+    "createdAt": "2025-08-25T10:03:21.433Z",
+    "updatedAt": "2025-08-25T10:03:21.433Z"
+  },
+  {
+    "title": "Grammarly",
+    "category": "Correzione Testi",
+    "description": "Correttore grammaticale e stilistico con AI.",
+    "brand": "Grammarly Inc.",
+    "website": "https://www.grammarly.com",
+    "logoUrl": "https://static.grammarly.com/favicon.ico",
+    "price": "Freemium",
+    "hasFreeVersion": true,
+    "apiAvailable": false,
+    "supportedLanguages": [
+      "EN"
+    ],
+    "platforms": [
+      "Web",
+      "Desktop",
+      "Mobile"
+    ],
+    "releaseYear": 2018,
+    "rating": 4.6,
+    "integrations": [
+      "Google Docs",
+      "Outlook"
+    ],
+    "privacyLevel": "High",
+    "useCases": [
+      "Scrittura",
+      "Email",
+      "Editing"
+    ],
+    "id": 6,
+    "createdAt": "2025-08-25T10:03:31.696Z",
+    "updatedAt": "2025-08-25T10:03:31.696Z"
+  },
+  {
+    "title": "Runway ML",
+    "category": "Video Editing AI",
+    "description": "Editing video avanzato con AI generativa.",
+    "brand": "Runway",
+    "website": "https://runwayml.com",
+    "logoUrl": "https://runwayml.com/favicon.ico",
+    "price": "Da 12€/mese",
+    "hasFreeVersion": true,
+    "apiAvailable": true,
+    "supportedLanguages": [
+      "EN"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releaseYear": 2021,
+    "rating": 4.5,
+    "integrations": [
+      "Premiere Pro",
+      "Figma"
+    ],
+    "privacyLevel": "Medium",
+    "useCases": [
+      "Video",
+      "Design",
+      "Creatività"
+    ],
+    "id": 7,
+    "createdAt": "2025-08-25T10:03:45.204Z",
+    "updatedAt": "2025-08-25T10:03:45.204Z"
+  },
+  {
+    "title": "Pictory",
+    "category": "Video da Testo",
+    "description": "Genera video da articoli e script testuali.",
+    "brand": "Pictory AI",
+    "website": "https://pictory.ai",
+    "logoUrl": "https://pictory.ai/favicon.ico",
+    "price": "Da 19€/mese",
+    "hasFreeVersion": true,
+    "apiAvailable": false,
+    "supportedLanguages": [
+      "EN"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releaseYear": 2022,
+    "rating": 4.3,
+    "integrations": [
+      "YouTube",
+      "LinkedIn"
+    ],
+    "privacyLevel": "Medium",
+    "useCases": [
+      "Content Marketing",
+      "Video",
+      "Social"
+    ],
+    "id": 8,
+    "createdAt": "2025-08-25T10:04:00.841Z",
+    "updatedAt": "2025-08-25T10:04:00.841Z"
+  },
+  {
+    "title": "Quillbot",
+    "category": "Parafrasi",
+    "description": "Riformula e semplifica testi con AI.",
+    "brand": "Quillbot",
+    "website": "https://quillbot.com",
+    "logoUrl": "https://quillbot.com/favicon.ico",
+    "price": "Freemium",
+    "hasFreeVersion": true,
+    "apiAvailable": false,
+    "supportedLanguages": [
+      "EN"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releaseYear": 2019,
+    "rating": 4.4,
+    "integrations": [
+      "Google Docs",
+      "Word"
+    ],
+    "privacyLevel": "Medium",
+    "useCases": [
+      "Scrittura",
+      "Studio",
+      "SEO"
+    ],
+    "id": 9,
+    "createdAt": "2025-08-25T10:04:11.040Z",
+    "updatedAt": "2025-08-25T10:04:11.040Z"
+  },
+  {
+    "title": "Descript",
+    "category": "Audio/Video Editing",
+    "description": "Editing audio e video tramite testo.",
+    "brand": "Descript Inc.",
+    "website": "https://www.descript.com",
+    "logoUrl": "https://www.descript.com/favicon.ico",
+    "price": "Da 12€/mese",
+    "hasFreeVersion": true,
+    "apiAvailable": true,
+    "supportedLanguages": [
+      "EN"
+    ],
+    "platforms": [
+      "Web",
+      "Desktop"
+    ],
+    "releaseYear": 2020,
+    "rating": 4.5,
+    "integrations": [
+      "Zoom",
+      "YouTube"
+    ],
+    "privacyLevel": "High",
+    "useCases": [
+      "Podcast",
+      "Video",
+      "Trascrizione"
+    ],
+    "id": 10,
+    "createdAt": "2025-08-25T10:04:23.772Z",
+    "updatedAt": "2025-08-25T10:04:23.772Z"
+  },
+  {
+    "title": "Beautiful.ai",
+    "category": "Presentazioni",
+    "description": "Crea presentazioni con design automatico.",
+    "brand": "Beautiful.ai",
+    "website": "https://www.beautiful.ai",
+    "logoUrl": "https://www.beautiful.ai/favicon.ico",
+    "price": "Da 15€/mese",
+    "hasFreeVersion": false,
+    "apiAvailable": false,
+    "supportedLanguages": [
+      "EN"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releaseYear": 2020,
+    "rating": 4.3,
+    "integrations": [
+      "Slack",
+      "Dropbox"
+    ],
+    "privacyLevel": "Medium",
+    "useCases": [
+      "Presentazioni",
+      "Design",
+      "Business"
+    ],
+    "id": 11,
+    "createdAt": "2025-08-25T10:04:36.155Z",
+    "updatedAt": "2025-08-25T10:04:36.155Z"
+  },
+  {
+    "title": "Perplexity",
+    "category": "Ricerca AI",
+    "description": "Motore di ricerca conversazionale con fonti citate.",
+    "brand": "Perplexity AI",
+    "website": "https://www.perplexity.ai",
+    "logoUrl": "https://www.perplexity.ai/favicon.ico",
+    "price": "Freemium",
+    "hasFreeVersion": true,
+    "apiAvailable": true,
+    "supportedLanguages": [
+      "EN"
+    ],
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "releaseYear": 2023,
+    "rating": 4.7,
+    "integrations": [
+      "Slack",
+      "Zapier"
+    ],
+    "privacyLevel": "High",
+    "useCases": [
+      "Ricerca",
+      "Studio",
+      "Verifica Fonti"
+    ],
+    "id": 12,
+    "createdAt": "2025-08-25T10:08:31.134Z",
+    "updatedAt": "2025-08-25T10:08:31.134Z"
+  },
+  {
+    "title": "Canva Magic Studio",
+    "category": "Design Assistito",
+    "description": "Genera grafiche, presentazioni e video con prompt testuali.",
+    "brand": "Canva",
+    "website": "https://www.canva.com",
+    "logoUrl": "https://www.canva.com/favicon.ico",
+    "price": "Freemium",
+    "hasFreeVersion": true,
+    "apiAvailable": false,
+    "supportedLanguages": [
+      "EN",
+      "IT",
+      "FR",
+      "DE"
+    ],
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "releaseYear": 2024,
+    "rating": 4.7,
+    "integrations": [
+      "Google Drive",
+      "Slack"
+    ],
+    "privacyLevel": "Medium",
+    "useCases": [
+      "Social media",
+      "Branding",
+      "Presentazioni"
+    ],
+    "id": 13,
+    "createdAt": "2025-08-25T10:10:38.022Z",
+    "updatedAt": "2025-08-25T10:10:38.022Z"
+  },
+  {
+    "title": "SurferSEO",
+    "category": "SEO AI",
+    "description": "Ottimizza contenuti per SEO con analisi semantica.",
+    "brand": "Surfer",
+    "website": "https://surferseo.com",
+    "logoUrl": "https://surferseo.com/favicon.ico",
+    "price": "Da 29€/mese",
+    "hasFreeVersion": false,
+    "apiAvailable": true,
+    "supportedLanguages": [
+      "EN"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releaseYear": 2020,
+    "rating": 4.5,
+    "integrations": [
+      "Jasper",
+      "WordPress"
+    ],
+    "privacyLevel": "Medium",
+    "useCases": [
+      "Blogging",
+      "SEO",
+      "Content strategy"
+    ],
+    "id": 14,
+    "createdAt": "2025-08-25T10:11:29.537Z",
+    "updatedAt": "2025-08-25T10:11:29.537Z"
+  },
+  {
+    "title": "Lattice",
+    "category": "Performance Management",
+    "description": "Analizza feedback e obiettivi per migliorare la cultura aziendale.",
+    "brand": "Lattice",
+    "website": "https://www.lattice.com",
+    "logoUrl": "https://www.lattice.com/favicon.ico",
+    "price": "Da 11€/utente/mese",
+    "hasFreeVersion": false,
+    "apiAvailable": true,
+    "supportedLanguages": [
+      "EN"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releaseYear": 2021,
+    "rating": 4.3,
+    "integrations": [
+      "Slack",
+      "Google Workspace"
+    ],
+    "privacyLevel": "Medium",
+    "useCases": [
+      "HR",
+      "Performance review",
+      "Engagement"
+    ],
+    "id": 15,
+    "createdAt": "2025-08-25T10:12:12.875Z",
+    "updatedAt": "2025-08-25T10:12:12.875Z"
+  }
+]
